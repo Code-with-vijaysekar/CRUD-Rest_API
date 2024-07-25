@@ -14,6 +14,6 @@ You can install these dependencies using the following command:
 
 >> pip install Flask Flask-SQLAlchemy Flask-Marshmallow
 
->> git clone 
+>> git clone https://github.com/Code-with-vijaysekar/CRUD-Rest_API.git
 >> cd CRUD-Rest_API
 Note: This API is intended for educational and learning purposes. It may not be suitable for production use and does not implement security features or validation mechanisms commonly required in real-world applications.
